@@ -31958,7 +31958,7 @@ if(a5.n(0,n)){s=4
 break}a5.D(0,n)
 p=7
 a1=A.hk("https://openrouter.ai/api/v1/chat/completions",0,null)
-a2=A.ah(["Content-Type","application/json","Authorization","Bearer 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","X-Title","RRM Dashboard"],a4,a4)
+a2=A.ah(["Content-Type","application/json","Authorization","Bearer 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","X-Title","RRM Dashboard"],a4,a4)
 s=10
 return A.D(A.bjz(a1,B.aD.nx(A.ah(["model",n,"temperature",a9,"max_tokens",a7,"messages",A.b([A.ah(["role","system","content",a8],a4,a4),A.ah(["role","user","content",b0],a4,a4)],f)],a4,e),null),a2),$async$a6r)
 case 10:m=b2
